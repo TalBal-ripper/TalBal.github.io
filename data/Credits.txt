@@ -1,0 +1,168 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center>
+CREDITS
+
+\c[2]Idea
+Thomas Ward
+Silvamord
+
+\c[2]Story
+MiznK
+Thomas Ward
+Silvamord
+Kenji
+Kacia
+
+\c[2]Gamedesign
+idavollr
+
+\c[2]Art
+Silvamord
+Lena Sholohova
+Gelya
+MiznK
+
+\c[2]Developing
+Chlor17(TalonyUWU)
+Klimber
+Thomas Ward
+
+\c[2]Q&A
+Banana
+
+\c[2]Music
+idavollr
+
+\c[2]Mapping
+Silvamord
+Klimber
+NimethuaGames / Владимир Гросс
+Yros Meln
+
+\c[2]Translate
+Bella Kant
+MerryMary
+Thomas Ward
+Lord Darconium
+
+Alexander Nakarada - Autumn Walk
+Alexander Nakarada - Heartbeat
+Alexander Nakarada - The Cold Battle
+Alexander Nakarada - Dark Hollows
+Alexander Nakarada - Wonderland
+Alexander Nakarada - Tam Lin
+Alexander Nakarada - The Great Battle
+Alexander Nakarada - The Vikings
+Alexander Nakarada - Seven Seas
+Alexander Nakarada - Fantasy Motion
+Myuu - Versunken
+Keys of Moon - Blooming Melody
+Alexander Nakarada - Downfall
+
+https://www.serpentsoundstudios.com
+Music promoted by https://www.free-stock-music.com
+Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Versunken by Myuu | https://soundcloud.com/myuu
+Music promoted by https://www.free-stock-music.com
+Creative Commons Attribution 3.0 Unported License
+https://creativecommons.org/licenses/by/3.0/deed.en_US
+
+Blooming Melody by Keys of Moon | https://soundcloud.com/keysofmoon
+Music promoted by https://www.free-stock-music.com
+Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Writhing Sewers - びじえもん (BGMemon)
+
+\c[2]Patrons
+A A
+Aggaron
+Aimless dreams
+Alex Smoak
+ArmoredOpossum
+Barghest
+BetaCosmicWolf
+branden kulas
+Brandon
+Chiseri
+Darknsslord710
+DeusExMachina
+DovahDoVolom
+Gabriel Regli
+Gajeel Redfox
+Glen
+Gloden
+Golden Feritas
+J Racer
+Jo Sus
+John Farmer
+JustNova
+Killa_C
+Lou
+LustFang
+Markus Lenzen
+Metal_Panther
+Middy
+Mike R
+Miline8
+Myron
+Nightfall
+njt
+Pascal Schmitz
+Paweł
+pulltoyjack
+Revenuk
+Robert Kasper
+SharpDevastator
+Steinmaurer Stefan
+Sylveonthefox
+TheShadow Lord
+Wind Strider
+WixMouse
+xHuntersOfGamesx
+ZIba
+
+\c[2]Special thanks
+KageDesu
+Alx_Yago
+nirion
+DZKing
+Расул
+BorrowWick
+>Summi succubus<
+Kel
+AnexFur
+Popi
+Kelectu 
+Grim
+просто лис
+Grim
+Last-vegas
+ТОЩИЙ ФЕЙ
+ShyRD
+Кирилл Пугачев
+Потап Дьячков
+Sakuzo Yuko
+Михаил Yoki_Yokoh
+Wrensell Foewereck 
+Valentino  
+Theomur
+Rogan
+Елена Песчаная
+AinzOylGon
+Анориат
+YaLoshadko
+Foxfolt
+Ren(RendeL)
+lolkek573
+Kent Saulos
+ave_virgo
+Persik Toi
+OverLorder
+Aleksandr Kasatkin
+Alex Fox
+</block>

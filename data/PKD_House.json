@@ -1,0 +1,134 @@
+{
+    "mapId": 20,
+    "placeAnimtionId": 1,
+    "BackGroundImg": null,
+    "BackGroundImgPositon": [
+        0,
+        0
+    ],
+    "Windows": {
+        "position": [
+            340,
+            120
+        ],
+        "width": 420,
+        "height": 400,
+        "infoPlusTextColor": "#EEDD11"
+    },
+    "Gauge": {
+        "position": [
+            1090,
+            20
+        ],
+        "size": [
+            160,
+            40
+        ],
+        "backcolor": "#8080FF",
+        "backOpacity": 200,
+        "fillColor": "#1C1CFF",
+        "textSize": 22,
+        "infoTextSize": 14,
+        "infoTextPos": [
+            0,
+            30
+        ]
+    },
+    "GaugeZones": [
+        [
+            "Impossible to live(0-5)",
+            0
+        ],
+        [
+            "Better than nothing(6-10)",
+            0
+        ],
+        [
+            "Better than nothing(11-15)",
+            0
+        ],
+        [
+            "Better than nothing(16-20)",
+            0
+        ],
+        [
+            "Better than nothing(21-25)",
+            0
+        ],
+        [
+            "Good housing(26-30)",
+            0
+        ],
+        [
+            "Good housing(31-35)",
+            0
+        ],
+        [
+            "Good housing(36-40)",
+            0
+        ],
+        [
+            "Good housing(41-45)",
+            0
+        ],
+        [
+            "Good housing(46-50)",
+            0
+        ],
+        [
+            "Good housing(51-55)",
+            0
+        ],
+        [
+            "Good housing(56-60)",
+            0
+        ],
+        [
+            "Good housing(56-60)",
+            0
+        ],
+        [
+            "Good housing(61-65)",
+            0
+        ],
+        [
+            "Good housing(66-70)",
+            0
+        ],
+        [
+            "Good housing(71-75)",
+            24
+        ],
+        [
+            "Here you can spend your old age(76-80)",
+            24
+        ],
+        [
+            "Here you can spend your old age(81-85)",
+            24
+        ],
+        [
+            "Here you can spend your old age(86-90)",
+            24
+        ],
+        [
+            "Here you can spend your old age(90-95)",
+            24
+        ], 
+        [
+            "Heaven on Earth(95-100)",
+            25
+        ]
+    ],
+    "PlaceDefinition": [
+        {
+            "eventId": 0,
+            "placements": [
+                [
+                    0,
+                    0
+                ]
+            ]
+        }
+    ]
+}

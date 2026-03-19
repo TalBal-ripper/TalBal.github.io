@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Main","characterIndex":4,"characterName":"Main1","classId":11,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"Main1","traits":[],"initialLevel":1,"maxLevel":90,"name":"{eirik}","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Simen","characterIndex":0,"characterName":"People1","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People1","traits":[{"code":54,"dataId":1,"value":1},{"code":54,"dataId":2,"value":1},{"code":54,"dataId":3,"value":1},{"code":54,"dataId":4,"value":1},{"code":54,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":90,"name":"{simen}","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Ulfa - fight","characterIndex":1,"characterName":"Furry_1","classId":12,"equips":[24,26,33,32,0],"faceIndex":1,"faceName":"Main1","traits":[],"initialLevel":1,"maxLevel":90,"name":"{ulfa}","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Roxy - fight","characterIndex":3,"characterName":"Furry","classId":14,"equips":[36,30,39,38,0],"faceIndex":3,"faceName":"Main1","traits":[],"initialLevel":1,"maxLevel":90,"name":"{Рокси}","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"frog_tribe_A","classId":16,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Main1","traits":[],"initialLevel":10,"maxLevel":90,"name":"{Тина}","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor2_1","characterIndex":4,"characterName":"People5","classId":17,"equips":[0,0,2,3,0],"faceIndex":6,"faceName":"faces","traits":[],"initialLevel":7,"maxLevel":90,"name":"{Винкинс}","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Main","characterIndex":0,"characterName":"Main1","classId":16,"equips":[0,0,2,3,0],"faceIndex":3,"faceName":"faces","traits":[],"initialLevel":7,"maxLevel":90,"name":"{Пикок}","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"4wmi65ru","characterIndex":5,"characterName":"Furry","classId":13,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Main1","traits":[],"initialLevel":1,"maxLevel":99,"name":"{ulfa}","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Sofi_fight","characterIndex":6,"characterName":"Furry_1","classId":15,"equips":[28,29,41,40,0],"faceIndex":5,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"слот испорчен","nickname":"","note":"","profile":"На старых сейвах есть запись о 9 персонаже, которой\nломает Софи навыки и уровень хп. Перенес ее на свежий 10 номер"},
+{"id":10,"battlerName":"Sofi_fight","characterIndex":6,"characterName":"Furry_1","classId":15,"equips":[28,29,41,40,0],"faceIndex":5,"faceName":"Main1","traits":[],"initialLevel":1,"maxLevel":99,"name":"{Софи}","nickname":"","note":"","profile":""}
+]

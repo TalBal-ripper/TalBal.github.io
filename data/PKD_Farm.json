@@ -1,0 +1,71 @@
+{
+    "GlobalTimeVarId": 10,
+    "BackGroundImg": null,
+    "BackGroundImgPositon": [
+        0,
+        0
+    ],
+    "SelectorWindowPosition": [
+        360,
+        160
+    ],
+    "SelectorWindowWH": [
+        240,
+        350
+    ],
+    "HeaderY": 40,
+    "YesCancelButtonsY": 80,
+    "NoneIconIndex": 16,
+    "HeaderImgPosition": [
+        0,
+        12
+    ],
+    "FooterImgPosition": [
+        0,
+        210
+    ],
+    "InfoWindowPosition": [
+        600,
+        160
+    ],
+    "ListWindowPosition": [
+        600,
+        160
+    ],
+    "DescriptionWindowPosition": [
+        360,
+        60
+    ],
+    "DescriptionWindowWH": [
+        638,
+        100
+    ],
+    "Header2ImgPosition": [
+        80,
+        12
+    ],
+    "Header3ImgPosition": [
+        80,
+        94
+    ],
+    "InfoWindowContentStartY": 36,
+    "InfoWindowNoItemMsgStartY": 120,
+    "LineColor": "#F3FF22",
+    "PREFIX": [
+        null,
+        "{Обычный}",   
+        "{Ухожаный}",
+        "{Садовый}",
+        "{Тепличный}",
+        "+3",
+        "+4",
+        "+5"
+    ],
+    "EFFECTS_INFO": [
+        null,        
+    "{Увеличивает DEF на 25% на 3 хода.}",
+    "{Увеличивает ATK на 25% на 3 хода.}",
+    "{Регенерация HP 10% на 3 хода.}",
+    "{Регенерация TP 5% на 3 хода.}"
+    ]    
+}
