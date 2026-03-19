@@ -2435,7 +2435,11 @@ DKTools.Localization = class {
      * @return {Object} Data
      */
     static async _loadData(locale) {
-        const directoryPath = this._dataPath + locale;
+        let directoryPath = this._dataPath + locale;
+        // WebFix: forward slashes for browser compatibility
+        if (!Utils.isNwjs()) {
+            directoryPath = directoryPath.replace(/\\/g, '/');
+        }
         const directory = new DKTools.IO.Directory(directoryPath);
         const data = {};
 
@@ -2485,7 +2489,11 @@ DKTools.Localization = class {
                     new Error(`Localization directory is empty: ${directoryPath}`));
             }
         } else {
-            const filePath = directoryPath + '.json';
+            let filePath = directoryPath + '.json';
+            // WebFix: forward slashes for browser compatibility
+            if (!Utils.isNwjs()) {
+                filePath = filePath.replace(/\\/g, '/');
+            }
             const file = new DKTools.IO.File(filePath);
 
             if (file.exists()) {
